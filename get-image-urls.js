@@ -1,4 +1,4 @@
-// Stolen from Adrian Rosebrock's repo (https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/) & barely modified by Britney Muller.
+// Modified Adrian Rosebrock repo by Britney Muller -- Feb 2019.
 // pull down jquery into the JavaScript console
 var script = document.createElement('script');
 script.src = "https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js";
