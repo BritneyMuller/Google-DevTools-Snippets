@@ -16,3 +16,5 @@ Sidenote: Right click on the Snippet title you can 'rename' to whatever you woul
 #### #&#x2060;4 Navigate to Chrome DevTools Sources > Snippets > right click your saved snippet and click 'Run'. 
 
 #### #&#x2060;5 A .txt file of all the image URLs will automatically download. 
+
+<img width="662" alt="screen shot 2019-02-28 at 5 18 55 pm" src="https://user-images.githubusercontent.com/5594118/53609756-3523cc00-3b7d-11e9-9f56-62145433b6e7.png">
